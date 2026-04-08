@@ -9,7 +9,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-00C9B1?style=for-the-badge)](LICENSE)
 
 <br/>
 
@@ -285,12 +284,6 @@ Contributions are welcome! To contribute:
 5. Open a Pull Request
 
 Please ensure your code follows PEP 8 style guidelines and includes appropriate comments.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
